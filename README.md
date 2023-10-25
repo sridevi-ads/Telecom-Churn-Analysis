@@ -15,6 +15,7 @@ The next step is to define what constitutes "churn" in the context of the teleco
 Key features or variables that are likely to influence churn are selected. These could include contract length, service quality, customer complaints, pricing, and more.
 
 # Data Analysis: 
+
 Statistical and machine learning techniques are then used to analyze the data. The aim is to uncover patterns or factors associated with churn. 
 
 # Predictive Modeling:
